@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="ssf-labs-logo.jpg" alt="SSFLABS Research" width="180"/>
+</p>
+
+# La Paradoja del Condicionamiento en IA
+
+> **SSFLABS Research | DOI: 10.5281/zenodo.22262029**
 # LA PARADOJA DEL CONDICIONAMIENTO
 ### De Engagement a Confianza: El Moat de $200B para RLHF | Ahora con Muse Spark 1.3
 
